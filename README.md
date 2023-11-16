@@ -1,10 +1,6 @@
 # 게시글 CRUD API
 
 
-## ERD
-
-<img src= "https://github.com/heyjk2212/crud-api/assets/147573753/f3745dff-a618-4926-91c2-0860a006ef2a" width="700">
-
 ## API SPEC
 
 ### 3000 포트사용
